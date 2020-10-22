@@ -1,2 +1,2 @@
 # nbAstram
-Collections de notebook Jupyter pour l'astronomie amateur
+Collections de notebooks Jupyter pour l'astronomie amateur
